@@ -63,10 +63,6 @@
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-## 출력 결과
-
-* 사진 첨부 확인 
-
 # 도전 02
 
 ## 목표
@@ -130,7 +126,3 @@
         app:layout_constraintVertical_bias="0.499" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
-## 출력 결과
-
-* 사진 첨부 확인 
