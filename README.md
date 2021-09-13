@@ -18,6 +18,8 @@
 
 * [VS Code에서 깃허브를 연습](https://github.com/woni0114/myresource)
 
+* [풀 리퀘스트 실습](https://github.com/woni0114/doit)
+
 ## 알고리즘(2020년 8월 19일 ~ )
 
 ## 클론 코딩 영화평점 웹서비스(2021년 9월 13일 ~ )
