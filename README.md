@@ -4,6 +4,8 @@
 
 ## 안드로이드 앱 프로그래밍(2020년 8월 21일 ~ 2021년 1월 21일)
 
+* [한줄 일기 앱 by 안드로이드 10 버전](https://github.com/woni0114/SingleDiary)
+
 ## HTML + CSS + 자바스크립트 기본(2021년 2월 4일 ~ 2021년 7월 9일)
 
 * [최종 실습 프로젝트](https://github.com/woni0114/mywebsite)
