@@ -6,8 +6,20 @@
 
 ## HTML + CSS + 자바스크립트 기본(2021년 2월 4일 ~ 2021년 7월 9일)
 
+* [최종 실습 프로젝트](https://github.com/woni0114/mywebsite)
+
 ## 깃 & 깃허브(2021년 7월 13일 ~ 2021년 9월 10일)
+
+* [SSH 연결 실습](https://github.com/woni0114/connect-ssh)
+
+* [깃허브 연습](https://github.com/woni0114/test-1)
+
+* [개인 블로그 실습](https://github.com/woni0114/woni0114.github.io)
+
+* [VS Code에서 깃허브를 연습](https://github.com/woni0114/myresource)
 
 ## 알고리즘(2020년 8월 19일 ~ )
 
 ## 클론 코딩 영화평점 웹서비스(2021년 9월 13일 ~ )
+
+* [영화 평점 웹서비스 프로젝트](https://github.com/woni0114/movie_app_2021)
