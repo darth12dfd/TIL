@@ -30,6 +30,8 @@
 
 * [앱 배포](https://woni0114.github.io/movie_app_2021)
 
-## 리액트 프로그래밍(2021년 10월 27일 ~ 2022년 7월 22)(라우터 버전: V5)
+## 리액트 프로그래밍(2021년 10월 27일 ~ )(라우터 버전: V5)
 
 * [리액트프로그래밍](https://github.com/woni0114/react-practice)
+
+* [배포 앱](https://do-it-react-8837c.web.app/)
